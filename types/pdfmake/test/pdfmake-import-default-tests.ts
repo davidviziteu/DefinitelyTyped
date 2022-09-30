@@ -11,4 +11,4 @@ const dd = {
 pdfMake.createPdf(dd);
 
 // $ExpectType TCreatedPdf
-pdfMake.createPdf(dd, {}, fonts);
+pdfMake.createPdf(dd, {});
